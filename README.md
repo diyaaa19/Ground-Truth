@@ -31,7 +31,7 @@ PDF → Text Extraction → Chunking
 ## Setup
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/diyaaa19/Ground-Truth.git
 cd pdfchat
 
 python -m venv .venv
