@@ -2,6 +2,9 @@
 
 A local RAG chatbot for asking questions about PDFs with grounded, page-level citations.
 
+## Screenshots
+<img width="1882" height="847" alt="image" src="https://github.com/user-attachments/assets/0464e677-4a85-43c9-9aa3-ee828e3ae34e" />
+
 ## Features
 
 - Multiple PDF upload
