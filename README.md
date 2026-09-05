@@ -8,7 +8,7 @@ The application combines **semantic retrieval** with **BM25 keyword retrieval**,
 
 ---
 
-## ✨ Features
+##  Features
 
 -  **Multiple PDF upload** — upload one or more PDFs at once.
 -  **Hybrid retrieval** — FAISS semantic search + BM25 keyword search.
@@ -29,7 +29,7 @@ The core application implements these retrieval, embedding, PDF-processing, and 
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
                     ┌─────────────────┐
