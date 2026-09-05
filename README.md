@@ -432,7 +432,7 @@ brew install tesseract poppler
 sudo apt install tesseract-ocr poppler-utils
 ```
 
-The Python OCR dependencies are already included in `requirements.txt`; the system-level Tesseract and Poppler executables are separate requirements. fileciteturn0file1L42-L47
+The Python OCR dependencies are already included in `requirements.txt`; the system-level Tesseract and Poppler executables are separate requirements. 
 
 ---
 
@@ -454,7 +454,7 @@ Grounding threshold: 0.25
 Meaning ↔ keyword balance: 0.65
 ```
 
-These controls are defined directly in the Streamlit UI. fileciteturn0file0L113-L118
+These controls are defined directly in the Streamlit UI. 
 
 ---
 
@@ -477,7 +477,7 @@ pdfchat/
 
 ### `app.py`
 
-Streamlit interface, document upload, index building, retrieval controls, chat, and source display. fileciteturn0file0L124-L155
+Streamlit interface, document upload, index building, retrieval controls, chat, and source display. 
 
 ### `rag/extract.py`
 
